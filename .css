@@ -1,0 +1,54 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Style for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style for the nav */
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style for the main */
+main {
+    background-color: #f9f9f9;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Style for the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style for the li */
+li {
+    display: inline-block;
+    width: 100px;
+}
+
+/* Style for the h1 */
+h1 {
+    text-align: center;
+    font-family: 'Arial Black', sans-serif;
+    color: #333;
+}
+
+/* Style for the p */
+p {
+    line-height: 1.6;
+}
